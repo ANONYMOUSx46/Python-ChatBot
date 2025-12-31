@@ -1,0 +1,151 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Hey there",
+                "Good day",
+                "Good morning",
+                "Good evening",
+                "What's up?",
+                "Is anyone there?",
+                "Greetings"
+            ],
+            "responses": [
+                "Hello!",
+                "Hi there! How can I help you?",
+                "Hey! What can I do for you today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "Talk to you later",
+                "I am leaving",
+                "Catch you later",
+                "See ya",
+                "Have a good day"
+            ],
+            "responses": [
+                "Goodbye!",
+                "Talk to you later!",
+                "Have a great day!"
+            ]
+        },
+        {
+            "tag": "programming",
+            "patterns": [
+                "What is programming?",
+                "What is coding?",
+                "Explain programming",
+                "Tell me about coding",
+                "What is software development?",
+                "What do programmers do?",
+                "Why is programming important?"
+            ],
+            "responses": [
+                "Programming is the process of writing instructions that computers follow to solve problems and automate tasks."
+            ]
+        },
+        {
+            "tag": "resource",
+            "patterns": [
+                "Where can I learn to code?",
+                "Best way to learn programming",
+                "How should I start coding?",
+                "Recommend coding resources",
+                "Good programming websites",
+                "Apps to learn programming",
+                "Coding learning platforms"
+            ],
+            "responses": [
+                "Great resources include SoloLearn, freeCodeCamp, Programming Hub, and YouTube tutorials."
+            ]
+        },
+        {
+            "tag": "stocks",
+            "patterns": [
+                "What are my stocks?",
+                "Show my stock portfolio",
+                "Which stocks do I own?",
+                "Check my investments",
+                "What shares do I have?"
+            ],
+            "responses": [
+                "Here’s a look at your stock portfolio"
+            ]
+        },
+        {
+            "tag": "memory",
+            "patterns": [
+                "What did I ask earlier?",
+                "Do you remember my last question?",
+                "What was my previous message?",
+                "Can you recall what I said before?"
+            ],
+            "responses": [
+                "I remember what we talked about."
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is my name?",
+                "Do you know my name?",
+                "Tell me my name",
+                "Who am I?"
+            ],
+            "responses": [
+                "You told me your name earlier"
+            ]
+        },
+        {
+            "tag": "cybersecurity",
+            "patterns": [
+                "Give me a cybersecurity tip",
+                "How can I stay safe online?",
+                "Basic cybersecurity advice",
+                "How do hackers protect systems?",
+                "Security best practices",
+                "How to secure my computer"
+            ],
+            "responses": [
+                "Cybersecurity is critical — here’s a useful tip"
+            ]
+        },
+        {
+            "tag": "linux",
+            "patterns": [
+                "Help me with Linux",
+                "Linux command tips",
+                "How do I use the Linux terminal?",
+                "Useful Linux commands",
+                "Linux troubleshooting",
+                "Terminal tricks"
+            ],
+            "responses": [
+                "Here’s a helpful Linux tip"
+            ]
+        },
+        {
+            "tag": "network",
+            "patterns": [
+                "Network troubleshooting",
+                "Why is my internet slow?",
+                "Basic networking help",
+                "How do networks work?",
+                "Common network issues",
+                "Networking fundamentals"
+            ],
+            "responses": [
+                "Here’s a useful networking tip "
+            ]
+        }
+    ]
+}
