@@ -1,4 +1,5 @@
-# 🤖 Advanced Python Chatbot Project
+# 🤖 Advanced Python Chatbot 
+## Created by Liam De Wet
 
 This repository contains **two versions of a Python-based chatbot** that demonstrate the evolution from a **basic intent-based chatbot** to a **modern, AI-powered assistant** using **sentence embeddings, memory, confidence handling, and a desktop GUI**.
 
@@ -207,27 +208,12 @@ User: Give me a cybersecurity tip
 Bot: Always use multi-factor authentication whenever possible.
 ```
 
----
-
-## 🔮 Future Improvements
-
-- Voice input & text-to-speech
-- Web-based version (Flask / FastAPI)
-- Safe terminal command execution
-- Plugin system for tools
-- Packaging as Windows executable
-
----
-
-## 📜 License
-
-This project is open-source and intended for educational and personal portfolio use.
 
 ---
 
 ## 👨‍💻 Author
 
-Built with passion as a learning and portfolio project to explore **AI, NLP, and intelligent assistant design** in Python.
+Fully built by Myself with passion as a learning and portfolio project to explore **AI, NLP, and intelligent assistant design** in Python.
 
 ---
 
